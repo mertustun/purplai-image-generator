@@ -6,7 +6,7 @@ import { faWandMagic } from '@fortawesome/free-solid-svg-icons';
 import '../App.css'
 
 const Form = () => {
-  const { setPrompt, setHeight, setWidth, size, styles, setStyle, setSubmit, aspectRatio, setAspectRatio, setLoading } = useContext(ContextApi)
+  const { setPrompt, setHeight, setWidth, size, styles, setStyle, setSubmit, aspectRatio, setAspectRatio, setLoading } = useContext(ContextApi) // manage the paramters via context!
 
   const activeBorderRef = useRef(null);
   const [active_index, setActive_index] = useState(0)
