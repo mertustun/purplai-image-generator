@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/purplai-generator/static/css/main.8dad4bb7.css",
+    "main.js": "/purplai-generator/static/js/main.efac4959.js",
+    "static/js/453.c6fd7eb5.chunk.js": "/purplai-generator/static/js/453.c6fd7eb5.chunk.js",
+    "static/media/comic-book.png": "/purplai-generator/static/media/comic-book.a9c6fc7a67d143cbdab5.png",
+    "static/media/anime.png": "/purplai-generator/static/media/anime.6b8c8f507715671c3d60.png",
+    "static/media/neon-punk.png": "/purplai-generator/static/media/neon-punk.2ff50d79285021848013.png",
+    "static/media/isometric.png": "/purplai-generator/static/media/isometric.6d17a1a6f3426056bfe9.png",
+    "static/media/digital-art.png": "/purplai-generator/static/media/digital-art.e923c85a0fed7898bce1.png",
+    "static/media/analog-film.png": "/purplai-generator/static/media/analog-film.9ecb08c62b9db03bbaa7.png",
+    "static/media/fantasy-art.png": "/purplai-generator/static/media/fantasy-art.fbeceb27ebee6bada155.png",
+    "static/media/enhance.png": "/purplai-generator/static/media/enhance.046384ee72e9c9af00e6.png",
+    "static/media/line-art.png": "/purplai-generator/static/media/line-art.beeb792d47f3dc89cf43.png",
+    "static/media/3d-model.png": "/purplai-generator/static/media/3d-model.589dba498ca7962673a5.png",
+    "static/media/low-poly.png": "/purplai-generator/static/media/low-poly.82279d59d3564f188631.png",
+    "static/media/modeling-compound.png": "/purplai-generator/static/media/modeling-compound.8810356d71815687661a.png",
+    "static/media/photographic.png": "/purplai-generator/static/media/photographic.0ca1a95cdd93f4b6a938.png",
+    "static/media/cinematic.png": "/purplai-generator/static/media/cinematic.76736194bf25d0a684d7.png",
+    "static/media/tile-texture.png": "/purplai-generator/static/media/tile-texture.e530b296d6477a5dc07a.png",
+    "static/media/origami.png": "/purplai-generator/static/media/origami.e00c573b210ffa9927e4.png",
+    "static/media/carousel_5.png": "/purplai-generator/static/media/carousel_5.aa55ea40151a7dbff041.png",
+    "static/media/carousel_2.png": "/purplai-generator/static/media/carousel_2.4a71dcf56a2ae011f8e4.png",
+    "static/media/carousel_4.png": "/purplai-generator/static/media/carousel_4.015050f5cd052d5c0129.png",
+    "static/media/pixel-art.png": "/purplai-generator/static/media/pixel-art.b401ccaea4fc36338a7f.png",
+    "static/media/carousel_1.png": "/purplai-generator/static/media/carousel_1.41fa543f1d203b7ad82a.png",
+    "static/media/carousel_3.png": "/purplai-generator/static/media/carousel_3.91d14e7a8e086bfa4fb8.png",
+    "static/media/none.png": "/purplai-generator/static/media/none.f3999bbfb5224844763a.png",
+    "static/media/purplai_text_logo.jpg": "/purplai-generator/static/media/purplai_text_logo.18be2cccf50ac6f6eaf6.jpg",
+    "index.html": "/purplai-generator/index.html",
+    "main.8dad4bb7.css.map": "/purplai-generator/static/css/main.8dad4bb7.css.map",
+    "main.efac4959.js.map": "/purplai-generator/static/js/main.efac4959.js.map",
+    "453.c6fd7eb5.chunk.js.map": "/purplai-generator/static/js/453.c6fd7eb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8dad4bb7.css",
+    "static/js/main.efac4959.js"
+  ]
+}
